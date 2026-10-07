@@ -2,7 +2,7 @@
  * Problem Name: Ferris_Wheel
  * Language: C++
  * Category: Sorting_and_Searching
- * Date: 2026-10-05
+ * Date: 2026-10-07
  */
 
 #include<bits/stdc++.h>
